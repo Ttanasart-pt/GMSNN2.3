@@ -6,7 +6,7 @@ A part of my freshman Computer Engineer work. This framework is stripped from a 
 
 ### Features
 
-- Neuroevolution ML focus on game solving AI.
+- Neuroevolution ML focus on game playing AI.
 - Support 3 types of activation function (tanh, softmax, sigmoid).
 - Support multiple game instances run in parallel.
 - Simple network visualization.
